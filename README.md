@@ -1,10 +1,9 @@
-## Hi there, I'm Sebastian Cascante
+# Hi there, I'm Sebastian Cascante
 
 Software Developer  
 ---
 
-##About Me
----
+# About Me:
 
-##Technologies:
----
+# Technologies:
+
