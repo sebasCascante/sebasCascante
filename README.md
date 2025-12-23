@@ -2,7 +2,6 @@
 
 Software Developer  
 ---
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sebasCascante&theme=dark&border=000000)](https://git.io/streak-stats)
 
 About Me:
@@ -19,5 +18,6 @@ Technologies:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60"/>
           
           
