@@ -2,7 +2,8 @@
 
 Software Developer  
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sebasCascante&theme=dark)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sebasCascante&theme=dark&border=000000)](https://git.io/streak-stats)
 
 About Me:
 ---
