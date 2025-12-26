@@ -7,6 +7,9 @@ Software Developer
 About Me:
 ---
 
+I consider myself a level-headed individual, capable of handling high-pressure situations with a problem-solving mindset.
+Passionate about technology and innovation, I am constantly looking for ways to improve my skills and stay up to date with the latest industry trends. For me, programming is not just a profession, it’s what I love to do.
+
 Technologies:
 ---
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" />
