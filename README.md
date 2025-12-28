@@ -30,3 +30,7 @@ Technologies:
           
 Latest contribution log post:
 ---
+
+ideas:
+
+docker/ kubernetes deployment
