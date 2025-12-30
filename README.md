@@ -34,3 +34,4 @@ Latest contribution log post:
 ideas:
 
 docker/ kubernetes deployment
+linux VM configuration
