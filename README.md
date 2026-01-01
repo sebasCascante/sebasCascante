@@ -35,3 +35,5 @@ ideas:
 
 docker/ kubernetes deployment
 linux VM configuration
+something intelligent
+
