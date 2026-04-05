@@ -27,13 +27,3 @@ Technologies:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="60" />
-          
-Latest contribution log post:
----
-
-ideas:
-
-docker/ kubernetes deployment
-linux VM configuration
-something intelligent
-
