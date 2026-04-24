@@ -31,4 +31,4 @@ Technologies:
 Currently working on:
 ---
 
-Microsoft AI engineer certification
+- Microsoft AI engineer certification
