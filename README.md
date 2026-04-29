@@ -32,3 +32,4 @@ Currently working on:
 ---
 
 - Microsoft AI engineer certification
+- Microsoft Git Hub Actions (GH-200) Certifications
