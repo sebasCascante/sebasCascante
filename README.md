@@ -27,9 +27,14 @@ Technologies:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynatrace/dynatrace-original.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="60" />
+
+
 
 Currently working on:
 ---
 
 - Microsoft AI engineer certification
 - Microsoft Git Hub Actions (GH-200) Certifications
+- Building a real scale data center
