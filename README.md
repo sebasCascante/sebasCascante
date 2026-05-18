@@ -37,4 +37,4 @@ Currently working on:
 
 - Microsoft AI engineer certification
 - Microsoft Git Hub Actions (GH-200) Certifications
-- Building a real scale data center
+- Building a homelab simulating a real-scale data center
