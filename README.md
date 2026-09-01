@@ -35,6 +35,6 @@ Technologies:
 Currently working on:
 ---
 
-- Microsoft AI engineer certification
-- Microsoft Git Hub Actions (GH-200) Certification
+- Google Cloud Computing Foundations Certificate
+- Microsoft AI Engineer Certification
 - Building a homelab simulating a real-scale data center
